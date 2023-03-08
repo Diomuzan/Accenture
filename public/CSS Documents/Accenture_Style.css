@@ -1,0 +1,17 @@
+html, body {
+    background-image: url("/Pictures/Accenture_Wallpaper.jpg");
+    background-size: 1281px;
+    font-family: 'Golos Text', sans-serif;
+}
+
+.heading1 {
+    display: inline-block;
+    top: 45px;
+    left: 545px;
+}
+
+.accentureTable {
+    width: 700px;
+    top: 100px;
+    left: 300px;
+}
